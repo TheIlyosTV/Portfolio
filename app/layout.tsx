@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     description: "Explore my interactive portfolio showcasing my projects and skills.",
     images: [
       {
-        url: "/preview.jpg", // Rasmingiz URL manzili
+        url: "/Images/preview.jpg", // Rasmingiz URL manzili
         width: 1200,
         height: 630,
         alt: "Ilyosbek Portfolio Preview",
