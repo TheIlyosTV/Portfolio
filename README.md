@@ -53,3 +53,4 @@ If you have any questions or want to collaborate, feel free to reach out:
 
 📧 Email: theilyostv@gmail.com  
 🐙 GitHub: [TheIlyosTV](https://github.com/TheIlyosTV)
+☣  Telegram: [Ilyosbek](https://t.me/Black_Haacker)
