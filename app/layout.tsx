@@ -10,6 +10,19 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Ilyosbek - Portfolio",
   description: "Interactive portfolio website of Ilyosbek",
+  openGraph: {
+    title: "Ilyosbek - Portfolio",
+    description: "Explore my interactive portfolio showcasing my projects and skills.",
+    images: [
+      {
+        url: "https://yourwebsite.com/your-image.jpg", // Rasmingiz URL manzili
+        width: 1200,
+        height: 630,
+        alt: "Ilyosbek Portfolio Preview",
+      },
+    ],
+    type: "website",
+  },
 }
 
 export default function RootLayout({
