@@ -22,7 +22,7 @@ This is a personal portfolio website built using [Next.js](https://nextjs.org) a
 First, clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/TheIlyosTV/portfolio.git
 cd portfolio
 npm install
 ```
@@ -51,6 +51,5 @@ You can deploy this project using platforms like:
 
 If you have any questions or want to collaborate, feel free to reach out:
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)  
-🐙 GitHub: [your-username](https://github.com/your-username)
+📧 Email: theilyostv@gmail.com  
+🐙 GitHub: [TheIlyosTV](https://github.com/TheIlyosTV)
